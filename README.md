@@ -1,7 +1,7 @@
-# 乐动掌控2.0 在线文档仓库
+# 乐动模块 在线文档仓库
 https://labplus-ledong-v2-documentation.readthedocs.io/zh-cn/latest/#
 
-## 乐动掌控2.0  在线文档
+## 乐动模块  在线文档
 
 git remote add origin https://github.com/labplus-cn/labplus_ledong_v2-documentation.git
 ## 编译步骤
