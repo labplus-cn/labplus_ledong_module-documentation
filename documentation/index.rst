@@ -8,18 +8,16 @@
 
 
 
-| **掌控板官网**: https://www.mpython.cn
-| **mPython软件下载链接**: https://labplus.cn/software
-| **GitHub开源固件**: https://github.com/labplus-cn/mpython_esp32s3
-
-*掌控板项目的软硬件资源已分享至GitHub，供各位掌控板爱好者学习阅览*
+.. figure:: /static/乐动模块.jpg
+	:width: 100%
+	:align: center
 
 
 .. toctree::
-    :maxdepth: 3
+    :maxdepth: 2
 
     概述/index.rst
-
+    传感器类/index.rst
     LICENSE.rst
 
 
