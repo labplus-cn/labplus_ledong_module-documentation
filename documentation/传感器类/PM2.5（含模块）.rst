@@ -1,3 +1,34 @@
-.. toctree::
-    :maxdepth: 3
+PM2.5（含模块）
+===================
 
+.. figure:: /static/图片/按键-B.png
+	:width: 70%
+	:align: center
+
+概述
+--------------------
+按压式的开关数字输入模块，按下为高电平输出，释放为低电平输出。
+
+技术参数
+-------------------
+
+工作电压： VCC 3.3V -5V
+
+模块尺寸：24*48mm
+
+固定安装：2个兼容乐高积木通孔
+
+数据类型：按下--1 松开--0
+
+示例程序
+-------------------
+
+**图形化代码**
+
+.. figure:: /static/examples/按键.png
+	:width: 100%
+	:align: center
+
+.. figure:: /static/examples/按键1.png
+	:width: 100%
+	:align: center
