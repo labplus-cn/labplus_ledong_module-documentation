@@ -1,8 +1,8 @@
 LED灯
 ===================
 
-.. figure:: /static/图片/TT马达.png
-	:width: 70%
+.. figure:: /static/图片/LED灯-H.png
+	:width: 55%
 	:align: center
 
 概述

@@ -2,7 +2,7 @@ RFID
 ===================
 
 .. figure:: /static/图片/RFID-H.png
-	:width: 70%
+	:width: 55%
 	:align: center
 
 概述

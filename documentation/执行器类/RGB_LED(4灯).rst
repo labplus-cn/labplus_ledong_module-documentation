@@ -1,8 +1,8 @@
 RGB_LED(4灯)
 ===================
 
-.. figure:: /static/图片/TT马达.png
-	:width: 70%
+.. figure:: /static/图片/四色LED-H.png
+	:width: 55%
 	:align: center
 
 概述

@@ -1,8 +1,8 @@
 MP3音乐播放
 ===================
 
-.. figure:: /static/图片/TT马达.png
-	:width: 70%
+.. figure:: /static/图片/MP3.png
+	:width: 55%
 	:align: center
 
 概述

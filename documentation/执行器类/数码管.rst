@@ -1,8 +1,8 @@
 数码管管模块
 ===================
 
-.. figure:: /static/图片/TT马达.png
-	:width: 70%
+.. figure:: /static/图片/数码管-H.png
+	:width: 55%
 	:align: center
 
 概述

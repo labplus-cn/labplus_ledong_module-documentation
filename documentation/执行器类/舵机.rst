@@ -1,8 +1,8 @@
 舵机
 ===================
 
-.. figure:: /static/图片/9G舵机.png
-	:width: 70%
+.. figure:: /static/图片/配件/9G舵机.png
+	:width: 60%
 	:align: center
 
 概述

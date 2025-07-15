@@ -2,7 +2,7 @@
 ===================
 
 .. figure:: /static/图片/TT马达.png
-	:width: 70%
+	:width: 55%
 	:align: center
 
 概述

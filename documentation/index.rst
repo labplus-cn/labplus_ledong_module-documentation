@@ -19,6 +19,8 @@
     概述/index.rst
     传感器类/index.rst
     执行器类/index.rst
+    探究类/index.rst
+    逻辑类/index.rst
     LICENSE.rst
 
 
