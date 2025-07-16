@@ -1,13 +1,15 @@
 RGB_LED
 ===================
 
-.. figure:: /static/图片/RGB LED.png
+.. figure:: /static/图片/RGB_LED.png
 	:width: 55%
 	:align: center
 
 概述
 --------------------
-按压式的开关数字输入模块，按下为高电平输出，释放为低电平输出。
+可实现256级亮度显示，16777216种颜色的全真色彩显示颜色。
+
+
 
 技术参数
 -------------------
@@ -18,17 +20,27 @@ RGB_LED
 
 固定安装：2个兼容乐高积木通孔
 
-数据类型：按下--1 松开--0
+控制方式：RGB分量
+
+
+引脚定义
+-------------------
+
+=====  =========== 
+引脚    定义   
+=====  ===========  
+GND    地  
+VCC    电源  
+DI     控制信号输入
+NC     空
+=====  =========== 
 
 示例程序
 -------------------
 
-**图形化代码**
+**依次按照红绿蓝点亮LED灯。**
 
-.. figure:: /static/examples/按键.png
+.. figure:: /static/examples/RGB_LED.png
 	:width: 100%
 	:align: center
 
-.. figure:: /static/examples/按键1.png
-	:width: 100%
-	:align: center

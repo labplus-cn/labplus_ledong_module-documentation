@@ -44,6 +44,6 @@ NC     空
 
 **图形化代码**
 
-.. figure:: /static/examples/按红外接收.png
+.. figure:: /static/examples/红外接收.png
 	:width: 100%
 	:align: center

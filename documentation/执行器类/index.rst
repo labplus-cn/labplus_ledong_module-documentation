@@ -13,11 +13,13 @@
     数码管.rst
     有源蜂鸣器.rst
     水泵.rst
+    RGB灯带成品(7灯).rst
     满天星灯带.rst
     激光发射.rst
     电机.rst
-    继电器.rst
+    积木电机 .rst
     编码电机.rst
+    继电器.rst
     舵机(乐动).rst
     舵机.rst
     语音合成模块.rst
