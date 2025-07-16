@@ -9,7 +9,7 @@
 
 
 .. figure:: /static/乐动模块.jpg
-	:width: 100%
+	:width: 120%
 	:align: center
 
 
