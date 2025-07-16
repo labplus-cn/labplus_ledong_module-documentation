@@ -1,5 +1,5 @@
 # 乐动模块 在线文档仓库
-https://github.com/labplus-cn/labplus_ledong_module-documentation
+https://labplus-ledong-module-documentation.readthedocs.io/zh-cn/latest/
 
 ## 乐动模块  在线文档
 
