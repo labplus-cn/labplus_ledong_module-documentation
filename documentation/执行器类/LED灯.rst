@@ -1,4 +1,4 @@
-LED灯
+LED（红）
 ===================
 
 .. figure:: /static/图片/LED灯-H.png

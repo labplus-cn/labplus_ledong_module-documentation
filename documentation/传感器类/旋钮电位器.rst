@@ -2,7 +2,7 @@
 ===================
 
 .. figure:: /static/图片/旋钮电位器.png
-	:width: 55%
+	:width: 45%
 	:align: center
 
 概述
