@@ -5,10 +5,6 @@
 .. toctree::
     :maxdepth: 1
 
-    DHT温湿度传感器.rst
-    ds18b20防水温度传感器.rst
-    PM2.5.rst
-    PM2.5（含模块）.rst
     RFID.rst
     人体感应.rst
     北斗模块.rst
@@ -35,4 +31,8 @@
     震动.rst
     颜色传感器.rst
     麦克风.rst
+    DHT温湿度传感器.rst
+    ds18b20防水温度传感器.rst
+    PM2.5.rst
+    PM2.5（含模块）.rst
 

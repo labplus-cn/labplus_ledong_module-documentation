@@ -2,6 +2,14 @@ PM2.5(新版，模块+探头)
 ====================================
 
 
+.. figure:: /static/图片/PM2.5新-1.png
+	:width: 45%
+	:align: center
+
+.. figure:: /static/图片/PM2.5新-2.png
+	:width: 35%
+	:align: center
+
 
 概述
 --------------------

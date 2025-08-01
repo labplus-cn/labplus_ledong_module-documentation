@@ -21,6 +21,7 @@
     执行器类/index.rst
     探究类/index.rst
     逻辑类/index.rst
+    通讯类/index.rst
     LICENSE.rst
 
 
