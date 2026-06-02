@@ -1,4 +1,4 @@
-RGB_LED(4灯)
+RGB LED(4灯)
 ===================
 
 .. figure:: /static/图片/四色LED-H.png

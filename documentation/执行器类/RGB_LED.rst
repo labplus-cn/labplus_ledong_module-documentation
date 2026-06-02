@@ -1,4 +1,4 @@
-RGB_LED
+RGB LED
 ===================
 
 .. figure:: /static/图片/RGB_LED.png
