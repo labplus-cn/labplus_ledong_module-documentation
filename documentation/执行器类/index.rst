@@ -19,7 +19,7 @@
     RGB灯带成品(24灯).rst
     满天星灯带.rst
     激光发射.rst
-    电机.rst
+    TT马达.rst
     积木电机.rst
     双轴积木马达.rst    
     编码电机.rst
