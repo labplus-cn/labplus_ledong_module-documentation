@@ -1,4 +1,4 @@
-NeopixelRGB灯
+光环板(24灯)
 ===================
 
 .. figure:: /static/图片/光环板.png

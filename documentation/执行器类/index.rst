@@ -14,13 +14,14 @@
     数码管.rst
     有源蜂鸣器.rst
     水泵.rst
+    水泵双管.rst
     RGB灯带成品(7灯).rst
     RGB灯带成品(24灯).rst
     满天星灯带.rst
     激光发射.rst
     电机.rst
     积木电机.rst
-    马达.rst    
+    双轴积木马达.rst    
     编码电机.rst
     编码直流电机.rst
     继电器.rst
