@@ -22,6 +22,7 @@
     探究类/index.rst
     逻辑类/index.rst
     通讯类/index.rst
+    其他/index.rst
     LICENSE.rst
 
 
