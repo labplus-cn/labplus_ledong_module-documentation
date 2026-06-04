@@ -13,6 +13,11 @@
     北斗模块.rst
     土壤湿度.rst
     按键.rst
+    超声波.rst
+    门磁开关.rst
+    限位开关.rst
+    震动.rst
+    麦克风.rst
     摇杆.rst
     模拟光线.rst
     水位传感器.rst
@@ -24,15 +29,10 @@
     红外探测.rst
     红外接收模块.rst
     颜色传感器.rst
-    语音识别模块.rst
-    超声波.rst
-    门磁开关.rst
-    限位开关.rst
-    震动.rst
-    麦克风.rst
-    PM2.5.rst
-    PM2.5（含模块）.rst
     RFID.rst
     心率血氧模块.rst
     手势传感器.rst
+    语音识别模块.rst
+    PM2.5.rst
+    PM2.5（含模块）.rst
 
